@@ -47,12 +47,20 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, Python  
-- **Backend:** Node.js, Spring Boot  
-- **Frontend:** HTML, CSS, React  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45"/>
+</p>
+
 
 ---
 
@@ -72,9 +80,21 @@ Here are some ideas to get you started:
 ---
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 🧠 LeetCode: https://leetcode.com/YOUR_LEETCODE_USERNAME  
-- ⚔️ Codeforces: https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
+  <a href="https://leetcode.com/u/Code_Master_10/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+  </a>
+  <a href="https://codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/CodeChef_logo.svg" width="45"/>
+  </a>
+  <a href="https://codeforces.com/profile/CodeMaster_10" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" width="45"/>
+  </a>
+</p>
+
 
 ---
 
