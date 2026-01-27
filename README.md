@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 ## 🧠 Coding Profiles
 
 ### 🔹 LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Code_Master_10?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/Code_Master_10/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Code_Master_10?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Code_Master_10/)
+
+![LeetCode Streak](https://leetcode-stats-six.vercel.app/api/streak?username=YOUR_LEETCODE_USERNAME&theme=dark)
 
 ### 🔹 Codeforces
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=CodeMaster_10&theme=dark)](https://codeforces.com/profile/CodeMaster_10)
