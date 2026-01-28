@@ -30,22 +30,22 @@ Here are some ideas to get you started:
 $ whoami
 Rounak Sultane
 
-$ current_work
+$ I’m currently working on
 > Air Conditioning Automation Project
 > GSoC 2026 Open Source Contributions
 
-$ learning
+$ I’m currently learning
 > Advanced Java
 > Spring Boot
 
-$ collaboration
+$ I’m looking to collaborate on
 > Open Source Projects (GSoC 2026)
 
-$ help_needed
+$ I’m looking for help with
 > System Design
 > Open Source Mentorship
 
-$ ask_me_about
+$ Ask me about
 > C++,Java, DSA, Full Stack, AI
 
 $ contact
