@@ -71,19 +71,13 @@ $ fun_fact
   </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api/streak?username=Code_Master_10&theme=dark"/>
-</p>
+
 
 
 
 
 ---
 
-## 📊 GitHub Stats
-
-![Rounak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rounaks-10&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounaks-10&layout=compact&theme=dark)
 
 
 ---
