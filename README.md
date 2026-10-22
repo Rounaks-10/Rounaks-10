@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Rounak Sultane  
 
 🎓 Computer Science Engineering Student  
-💻 Aspiring Software Engineer | Java | DSA | Web | AI  
-🚀 Preparing for top internships & coding contests  
+💻 Aspiring Software Engineer | Cpp | DSA | Web | AI  
+🚀 Preparing to be the best Software Engineer 
 
 <p align="center">
   <a href="https://leetcode.com/u/Code_Master_10/">
@@ -41,18 +41,14 @@ $ I’m currently working on
 > GSoC 2026 Open Source Contributions
 
 $ I’m currently learning
-> Advanced Java
-> Spring Boot
+> Java
+> System Design
 
 $ I’m looking to collaborate on
 > Open Source Projects (GSoC 2026)
 
-$ I’m looking for help with
-> System Design
-> Open Source Mentorship
-
 $ Ask me about
-> C++,Java, DSA, Full Stack, AI
+> C++, DSA, Full Stack Web Development, OOP, DBMS, OS
 
 $ contact
 > LinkedIn, GitHub, LeetCode, Codeforces
