@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 💻 Aspiring Software Engineer | Java | DSA | Web | AI  
 🚀 Preparing for top internships & coding contests  
 
----
+<p align="center">
+  <a href="https://leetcode.com/u/Code_Master_10/">
+  <img src="./Leetcode.png" alt="LeetCode Heatmap" width="600"/>
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Rounak's+Profile...;Loading+Developer+Data...;Ready+to+Code+%F0%9F%9A%80" />
 </p>
@@ -64,7 +70,7 @@ $ fun_fact
 
 <p align="center">
   <a href="https://leetcode.com/u/Code_Master_10/">
-    <img src="https://leetcard.jacoblin.cool/Code_Master_10?theme=dark&font=Karma" height="190"/>
+    <img src="https://leetcard.jacoblin.cool/Code_Master_10?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
   </a>
   <a href="https://codeforces.com/profile/CodeMaster_10">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=CodeMaster_10&theme=dark" height="190"/>
@@ -85,15 +91,19 @@ $ fun_fact
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/>
+  <img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
+  <br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70"/>
 </p>
 
 
