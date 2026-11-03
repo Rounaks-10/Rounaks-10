@@ -68,9 +68,6 @@ $ fun_fact
   <a href="https://leetcode.com/u/Code_Master_10/">
     <img src="https://leetcard.jacoblin.cool/Code_Master_10?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
   </a>
-  <a href="https://codeforces.com/profile/CodeMaster_10">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=CodeMaster_10&theme=dark" height="190"/>
-  </a>
 </p>
 
 
@@ -116,14 +113,9 @@ $ fun_fact
  <a href="https://leetcode.com/u/Code_Master_10/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
 </a>
-  <a href="https://www.codechef.com/users/code_master_1" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://rounak-sultane-cse-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-<a href="https://codeforces.com/profile/CodeMaster_10" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
 </p>
 
 
