@@ -86,12 +86,12 @@ $ fun_fact
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/>
-  <img src="https://cdn.simpleicons.org/threedotjs/FFFFFF" width="70" height="70"/>
+  <img src="https://cdn.simpleicons.org/threedotjs" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/>
   <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="70" height="70"/>
+  <img src="https://cdn.simpleicons.org/express" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70"/>
   <br/><br/>
